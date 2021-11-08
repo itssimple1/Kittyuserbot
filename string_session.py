@@ -8,7 +8,7 @@ if mafia == 'y' or 'yes':
 
  print("\nPlease go to my.telegram.org and get your API Id and API Hash to proceed\n\n 𒊹︎︎︎ɢɪᴛʜᴜʙ ʀᴇᴘᴏ ɪs ➪➪ https://github.com/itssimple1/Kittyuserbot")
 
-print("""\n\nWelcome To MafiaBot String Session\nGenerator By @its_simple1\n\n""")
+print("""\n\nWelcome To KittyBot String Session\nGenerator By @its_simple1\n\n""")
 
 print("""Enter Your Valid Details To Continue!\n\n """)
 
