@@ -2,9 +2,9 @@ from telethon.sessions import StringSession
 
 from telethon.sync import TelegramClient
 
-mafia = input("✵ Enter y/yes to continue: ")
+kitty = input("✵ Enter y/yes to continue: ")
 
-if mafia == 'y' or 'yes':
+if kitty == 'y' or 'yes':
 
  print("\nPlease go to my.telegram.org and get your API Id and API Hash to proceed\n\n 𒊹︎︎︎ɢɪᴛʜᴜʙ ʀᴇᴘᴏ ɪs ➪➪ https://github.com/itssimple1/Kittyuserbot")
 
