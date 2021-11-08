@@ -23,7 +23,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @its_simple1. By default it is Mafia User",
+      "description": "Fill your Full name or Username like @its_simple1. By default it is Kitty User",
       "value": "@kittyBot_Support",
       "required": false
     },
